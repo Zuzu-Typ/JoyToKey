@@ -1,0 +1,3 @@
+__pycache__/
+*.j2k
+!default.j2k
